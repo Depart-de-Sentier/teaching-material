@@ -1,1 +1,6 @@
 advanced/5[[:space:]]-[[:space:]]Regionalization.pdf filter=lfs diff=lfs merge=lfs -text
+advanced/data/maize_water_intensity.tif filter=lfs diff=lfs merge=lfs -text
+advanced/data/sugarcane_landuse_intensity.tif filter=lfs diff=lfs merge=lfs -text
+advanced/data/sugarcane_water_intensity.tif filter=lfs diff=lfs merge=lfs -text
+advanced/data/gdpweighted.tif filter=lfs diff=lfs merge=lfs -text
+advanced/data/maize_landuse_intensity.tif filter=lfs diff=lfs merge=lfs -text
